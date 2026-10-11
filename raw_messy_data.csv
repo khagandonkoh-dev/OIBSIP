@@ -1,0 +1,1246 @@
+Customer_ID,Age,Gender,Transaction_Date,Total_Spend,Product_Category
+CUST_0202,32.0,F,2023.03.20,95.20,beauty
+CUST_0279,32.0,female,"April 5, 2023",,clothing
+CUST_0192,32.0,Male,2023-05-12,95.20,clothing
+CUST_0114,25.0,female,"April 5, 2023",$120.00,Electronics
+CUST_0206,45.0,Male,"April 5, 2023",$45.50,BEAUTY
+CUST_0171,19.0,male,2023-05-12,350.75,BEAUTY
+CUST_0288,32.0,M,15/02/2023,$45.50,Clothing
+CUST_0120,32.0,Female,2023-05-12,$45.50,Electronics
+CUST_0202,45.0,M,2023-01-15,"$1,200.00", electronics 
+CUST_0221,32.0,F,2023-05-12,350.75, electronics 
+CUST_0174,58.0,Female,15/02/2023,,Clothing
+CUST_0187,,Female,2023.03.20,$120.00,beauty
+CUST_0216,25.0,Male,15/02/2023,$120.00,beauty
+CUST_0199,25.0,F,"April 5, 2023",$45.50,clothing
+CUST_0203,25.0,F,2023-01-15,"$8,500.00",BEAUTY
+CUST_0251,25.0,female,2023-05-12,$15.00,beauty
+CUST_0230,32.0,Male,2023-05-12,95.20,Electronics
+CUST_0249,58.0,Male,2023-01-15,"$8,500.00",clothing
+CUST_0152,19.0,Male,2023-05-12,350.75,beauty
+CUST_0101,19.0,Male,"April 5, 2023",350.75,Electronics
+CUST_0187,25.0,male,2023.03.20,$120.00,beauty
+CUST_0257,45.0,F,15/02/2023,"$1,200.00",
+CUST_0137,32.0,M,15/02/2023,350.75,Clothing
+CUST_0229,19.0,Male,2023-01-15,350.75,BEAUTY
+CUST_0291,58.0,male,15/02/2023,"$8,500.00",BEAUTY
+CUST_0287,45.0,Male,2023-05-12,,Clothing
+CUST_0120,19.0,Male,2023-01-15,$15.00,Electronics
+CUST_0260,45.0,male,2023-05-12,$15.00, electronics 
+CUST_0157,45.0,male,15/02/2023,"$1,200.00",Electronics
+CUST_0121,25.0,female,2023.03.20,$45.50,Clothing
+CUST_0188,19.0,,"April 5, 2023",$45.50, electronics 
+CUST_0148,19.0,male,2023-05-12,"$1,200.00", electronics 
+CUST_0158,19.0,M,15/02/2023,$15.00, electronics 
+CUST_0269,58.0,female,2023.03.20,$45.50,BEAUTY
+CUST_0287,58.0,male,15/02/2023,"$8,500.00",
+CUST_0114,19.0,Male,2023-01-15,$45.50,
+CUST_0289,25.0,female,15/02/2023,$120.00,clothing
+CUST_0289,19.0,Male,2023.03.20,"$1,200.00",beauty
+CUST_0274,19.0,Female,15/02/2023,$45.50,BEAUTY
+CUST_0289,58.0,Female,"April 5, 2023",$45.50,clothing
+CUST_0150,25.0,male,15/02/2023,$120.00,Clothing
+CUST_0207,25.0,male,2023.03.20,$15.00, electronics 
+CUST_0154,25.0,female,15/02/2023,350.75,beauty
+CUST_0163,32.0,Male,"April 5, 2023","$1,200.00",clothing
+CUST_0230,25.0,Male,2023-05-12,"$1,200.00",clothing
+CUST_0150,45.0,female,2023.03.20,$45.50,Clothing
+CUST_0234,25.0,Female,"April 5, 2023",,Electronics
+CUST_0120,45.0,Male,15/02/2023,$45.50,Electronics
+CUST_0172,32.0,F,2023.03.20,,Clothing
+CUST_0266,19.0,male,15/02/2023,350.75, electronics 
+CUST_0117,25.0,female,15/02/2023,,BEAUTY
+CUST_0231,58.0,female,"April 5, 2023",$45.50,clothing
+CUST_0188,,Female,2023-05-12,350.75,Clothing
+CUST_0159,32.0,Female,2023-01-15,$45.50,Clothing
+CUST_0113,32.0,,2023.03.20,$45.50,clothing
+CUST_0108,58.0,Male,2023.03.20,"$1,200.00",Clothing
+CUST_0189,32.0,Female,2023-01-15,$120.00,Clothing
+CUST_0152,19.0,Male,2023-01-15,"$1,200.00",BEAUTY
+CUST_0229,58.0,male,15/02/2023,$45.50,BEAUTY
+CUST_0183,25.0,male,2023-01-15,$120.00,beauty
+CUST_0191,32.0,F,2023-01-15,$15.00, electronics 
+CUST_0210,19.0,,15/02/2023,350.75,clothing
+CUST_0287,19.0,Male,15/02/2023,"$1,200.00",beauty
+CUST_0298,25.0,Male,"April 5, 2023","$1,200.00",clothing
+CUST_0271,45.0,Female,2023.03.20,95.20, electronics 
+CUST_0107,25.0,M,,$120.00,clothing
+CUST_0274,25.0,Male,15/02/2023,"$1,200.00", electronics 
+CUST_0134,25.0,Female,"April 5, 2023",,Electronics
+CUST_0180,32.0,Female,2023-05-12,$15.00,
+CUST_0263,-5.0,,"April 5, 2023",350.75,clothing
+CUST_0149,32.0,Male,15/02/2023,"$1,200.00",Electronics
+CUST_0203,32.0,M,"April 5, 2023",$15.00,
+CUST_0231,58.0,Female,2023-01-15,"$1,200.00",
+CUST_0101,32.0,female,15/02/2023,$45.50,clothing
+CUST_0233,19.0,Female,2023.03.20,$45.50,Electronics
+CUST_0153,25.0,Female,2023.03.20,95.20,beauty
+CUST_0205,25.0,Male,2023-01-15,$120.00,BEAUTY
+CUST_0103,25.0,female,2023-05-12,$15.00,Clothing
+CUST_0153,25.0,M,"April 5, 2023",$120.00,beauty
+CUST_0290,45.0,Male,2023.03.20,350.75,Clothing
+CUST_0245,25.0,Female,2023-05-12,$45.50,Electronics
+CUST_0143,32.0,Male,15/02/2023,$45.50,Clothing
+CUST_0261,32.0,Male,,,Electronics
+CUST_0289,25.0,female,2023.03.20,95.20,BEAUTY
+CUST_0113,58.0,M,2023-01-15,"$1,200.00",Clothing
+CUST_0194,32.0,female,"April 5, 2023",350.75, electronics 
+CUST_0147,25.0,male,"April 5, 2023","$1,200.00",clothing
+CUST_0114,45.0,female,"April 5, 2023","$1,200.00",Electronics
+CUST_0299,32.0,Male,,"$1,200.00",Electronics
+CUST_0289,32.0,male,"April 5, 2023",$45.50,Clothing
+CUST_0139,32.0,,2023.03.20,"$1,200.00",Electronics
+CUST_0181,32.0,female,2023-05-12,$15.00,BEAUTY
+CUST_0210,45.0,Female,"April 5, 2023",, electronics 
+CUST_0152,19.0,male,15/02/2023,$45.50,Clothing
+CUST_0123,25.0,female,2023-05-12,$15.00,BEAUTY
+CUST_0253,19.0,Female,2023-01-15,"$1,200.00",Clothing
+CUST_0287,45.0,female,"April 5, 2023",350.75,clothing
+CUST_0223,25.0,female,2023-05-12,$45.50,
+CUST_0140,58.0,Male,"April 5, 2023",350.75,Electronics
+CUST_0256,32.0,Male,"April 5, 2023",$120.00, electronics 
+CUST_0114,58.0,Female,"April 5, 2023",$120.00,clothing
+CUST_0144,-5.0,Male,2023.03.20,$15.00, electronics 
+CUST_0164,58.0,male,2023-05-12,$15.00,
+CUST_0188,58.0,F,2023-01-15,"$1,200.00",Electronics
+CUST_0170,25.0,Female,2023-01-15,"$8,500.00",BEAUTY
+CUST_0108,32.0,female,15/02/2023,$120.00,BEAUTY
+CUST_0187,25.0,Female,2023.03.20,$120.00,Electronics
+CUST_0228,19.0,Female,2023.03.20,"$1,200.00",Clothing
+CUST_0235,32.0,Male,2023-05-12,$45.50, electronics 
+CUST_0162,32.0,male,15/02/2023,$120.00,clothing
+CUST_0238,25.0,male,2023.03.20,$120.00, electronics 
+CUST_0180,32.0,male,2023-01-15,$45.50,beauty
+CUST_0235,58.0,female,15/02/2023,95.20,
+CUST_0262,32.0,male,2023.03.20,$120.00,Electronics
+CUST_0262,45.0,M,2023-01-15,350.75,Electronics
+CUST_0132,58.0,male,15/02/2023,$45.50,BEAUTY
+CUST_0222,120.0,Male,2023-01-15,"$1,200.00",Electronics
+CUST_0104,32.0,M,2023-01-15,$120.00,beauty
+CUST_0140,58.0,Male,2023.03.20,$15.00,Clothing
+CUST_0127,,Male,2023-01-15,350.75,clothing
+CUST_0234,,Male,"April 5, 2023",$45.50,beauty
+CUST_0171,19.0,male,2023-05-12,350.75,clothing
+CUST_0111,25.0,female,2023.03.20,$45.50,beauty
+CUST_0261,25.0,male,,350.75,beauty
+CUST_0132,19.0,male,2023.03.20,$120.00, electronics 
+CUST_0147,32.0,Female,2023.03.20,"$8,500.00", electronics 
+CUST_0250,45.0,Male,,$45.50,
+CUST_0161,58.0,F,2023-01-15,"$1,200.00",beauty
+CUST_0136,19.0,Female,2023-05-12,$45.50, electronics 
+CUST_0198,58.0,M,2023-01-15,$120.00,beauty
+CUST_0271,32.0,Female,15/02/2023,350.75,clothing
+CUST_0203,45.0,Male,2023-01-15,"$8,500.00",Electronics
+CUST_0134,58.0,Female,"April 5, 2023",$120.00,beauty
+CUST_0292,32.0,male,2023.03.20,$45.50, electronics 
+CUST_0200,25.0,F,"April 5, 2023",$120.00,beauty
+CUST_0274,58.0,Male,15/02/2023,$45.50,Electronics
+CUST_0230,25.0,Female,15/02/2023,$45.50,Clothing
+CUST_0100,19.0,Female,2023-01-15,"$1,200.00",Electronics
+CUST_0104,58.0,Male,15/02/2023,$45.50,clothing
+CUST_0241,25.0,male,2023-05-12,$45.50,Clothing
+CUST_0202,45.0,female,15/02/2023,$15.00, electronics 
+CUST_0126,25.0,female,2023-05-12,$120.00,clothing
+CUST_0236,58.0,male,2023-05-12,$45.50,clothing
+CUST_0114,25.0,female,15/02/2023,$120.00, electronics 
+CUST_0189,-5.0,,2023.03.20,"$1,200.00",BEAUTY
+CUST_0141,45.0,female,2023-01-15,$120.00,Electronics
+CUST_0223,19.0,Male,2023-01-15,350.75,Clothing
+CUST_0278,32.0,female,2023-01-15,$45.50,clothing
+CUST_0162,120.0,male,2023.03.20,"$1,200.00",clothing
+CUST_0195,32.0,,15/02/2023,$120.00, electronics 
+CUST_0151,19.0,Female,2023.03.20,"$1,200.00",clothing
+CUST_0195,32.0,Male,2023.03.20,95.20,clothing
+CUST_0231,32.0,Female,15/02/2023,"$1,200.00",BEAUTY
+CUST_0250,45.0,male,"April 5, 2023",$120.00,beauty
+CUST_0242,45.0,,"April 5, 2023",$120.00,clothing
+CUST_0270,25.0,,2023-01-15,$120.00, electronics 
+CUST_0128,25.0,Female,2023-01-15,$45.50,Electronics
+CUST_0135,32.0,Male,"April 5, 2023",$45.50, electronics 
+CUST_0112,25.0,Female,15/02/2023,$15.00, electronics 
+CUST_0259,19.0,Male,"April 5, 2023",$120.00,clothing
+CUST_0170,58.0,Male,15/02/2023,350.75,Electronics
+CUST_0286,45.0,female,15/02/2023,"$1,200.00",Electronics
+CUST_0185,45.0,Male,2023-01-15,"$1,200.00", electronics 
+CUST_0127,58.0,male,15/02/2023,$45.50, electronics 
+CUST_0165,32.0,,2023.03.20,95.20, electronics 
+CUST_0269,58.0,male,15/02/2023,$45.50, electronics 
+CUST_0144,32.0,male,"April 5, 2023",$15.00,clothing
+CUST_0161,19.0,F,2023-05-12,$15.00,clothing
+CUST_0284,25.0,Male,2023.03.20,$15.00, electronics 
+CUST_0233,32.0,female,"April 5, 2023","$1,200.00",clothing
+CUST_0127,45.0,,15/02/2023,$45.50,Electronics
+CUST_0127,19.0,F,15/02/2023,$120.00, electronics 
+CUST_0207,19.0,Female,"April 5, 2023","$1,200.00", electronics 
+CUST_0143,25.0,male,15/02/2023,$120.00,clothing
+CUST_0183,25.0,male,2023.03.20,95.20,Clothing
+CUST_0129,45.0,female,2023-01-15,$120.00,Electronics
+CUST_0289,25.0,female,2023.03.20,$120.00, electronics 
+CUST_0174,32.0,Female,2023-05-12,$120.00,beauty
+CUST_0227,32.0,Male,2023-05-12,$120.00,Electronics
+CUST_0191,32.0,Male,"April 5, 2023","$1,200.00",Electronics
+CUST_0289,58.0,Male,"April 5, 2023",$15.00,beauty
+CUST_0228,25.0,Female,2023.03.20,"$1,200.00",BEAUTY
+CUST_0220,45.0,M,2023.03.20,95.20,clothing
+CUST_0126,25.0,F,2023-01-15,95.20,clothing
+CUST_0289,25.0,female,15/02/2023,95.20,Electronics
+CUST_0220,,Male,2023.03.20,$45.50, electronics 
+CUST_0215,19.0,Female,,$15.00,Clothing
+CUST_0102,19.0,M,15/02/2023,$120.00, electronics 
+CUST_0202,45.0,Female,2023.03.20,$45.50,clothing
+CUST_0297,19.0,female,2023.03.20,"$1,200.00",beauty
+CUST_0299,58.0,female,2023.03.20,$120.00,
+CUST_0254,25.0,female,"April 5, 2023",$45.50,Electronics
+CUST_0236,58.0,male,2023-01-15,$45.50,Clothing
+CUST_0161,45.0,Male,2023.03.20,$45.50,clothing
+CUST_0264,32.0,female,2023-05-12,"$8,500.00",beauty
+CUST_0150,,Male,2023.03.20,$45.50,Electronics
+CUST_0271,25.0,male,15/02/2023,$120.00, electronics 
+CUST_0251,,Male,"April 5, 2023",350.75, electronics 
+CUST_0158,19.0,Female,2023-05-12,$120.00,Electronics
+CUST_0217,32.0,Male,2023-01-15,"$8,500.00",Electronics
+CUST_0259,25.0,Female,"April 5, 2023",$45.50,BEAUTY
+CUST_0195,32.0,,2023-05-12,350.75,Clothing
+CUST_0279,19.0,Male,2023.03.20,"$1,200.00",Electronics
+CUST_0212,58.0,Male,,"$8,500.00",clothing
+CUST_0161,58.0,male,"April 5, 2023","$1,200.00", electronics 
+CUST_0285,,female,"April 5, 2023",95.20,beauty
+CUST_0151,19.0,Male,"April 5, 2023",$45.50,beauty
+CUST_0111,32.0,male,2023-01-15,$120.00,
+CUST_0138,32.0,Male,2023-01-15,$120.00,beauty
+CUST_0229,25.0,female,2023.03.20,95.20, electronics 
+CUST_0230,25.0,M,15/02/2023,$45.50, electronics 
+CUST_0212,25.0,female,15/02/2023,$45.50,Clothing
+CUST_0200,45.0,F,2023-05-12,$120.00,beauty
+CUST_0212,32.0,Male,2023-05-12,$45.50, electronics 
+CUST_0283,32.0,female,2023.03.20,$45.50, electronics 
+CUST_0180,19.0,Male,2023-05-12,,BEAUTY
+CUST_0286,19.0,F,"April 5, 2023",350.75, electronics 
+CUST_0212,19.0,Female,15/02/2023,"$1,200.00",clothing
+CUST_0101,,female,2023-01-15,$15.00,Clothing
+CUST_0229,19.0,Male,2023.03.20,$120.00,Electronics
+CUST_0153,19.0,Male,"April 5, 2023",$45.50, electronics 
+CUST_0186,25.0,male,15/02/2023,$120.00,BEAUTY
+CUST_0228,58.0,male,"April 5, 2023",$120.00,Clothing
+CUST_0246,,Male,2023-01-15,"$1,200.00",
+CUST_0225,45.0,male,"April 5, 2023",$120.00,Electronics
+CUST_0229,45.0,Male,2023-05-12,$45.50, electronics 
+CUST_0152,32.0,M,"April 5, 2023",350.75,BEAUTY
+CUST_0271,19.0,female,,"$8,500.00",clothing
+CUST_0259,,M,2023-05-12,95.20,Electronics
+CUST_0297,45.0,Male,2023-05-12,95.20,BEAUTY
+CUST_0259,32.0,M,2023-05-12,$15.00,Electronics
+CUST_0167,45.0,Male,2023-05-12,$120.00,Electronics
+CUST_0282,45.0,,"April 5, 2023",$15.00, electronics 
+CUST_0283,32.0,Male,2023-01-15,$45.50,clothing
+CUST_0222,-5.0,Female,2023.03.20,"$1,200.00",clothing
+CUST_0244,58.0,,2023.03.20,"$1,200.00",clothing
+CUST_0137,32.0,female,15/02/2023,$45.50,BEAUTY
+CUST_0123,45.0,Female,15/02/2023,$15.00,beauty
+CUST_0168,19.0,female,,"$8,500.00", electronics 
+CUST_0215,45.0,,2023-05-12,$120.00, electronics 
+CUST_0197,19.0,Female,2023-05-12,95.20, electronics 
+CUST_0297,32.0,Female,15/02/2023,$45.50, electronics 
+CUST_0238,120.0,Female,2023-01-15,"$1,200.00",Clothing
+CUST_0243,32.0,Female,2023-01-15,350.75,BEAUTY
+CUST_0196,32.0,Female,15/02/2023,350.75,BEAUTY
+CUST_0223,25.0,M,2023-01-15,"$8,500.00",Electronics
+CUST_0286,19.0,Male,2023-01-15,95.20,Electronics
+CUST_0169,45.0,Male,2023-05-12,$15.00,clothing
+CUST_0192,19.0,Male,"April 5, 2023",$120.00, electronics 
+CUST_0102,19.0,male,15/02/2023,"$8,500.00",Clothing
+CUST_0247,25.0,Male,2023-01-15,$45.50,
+CUST_0286,45.0,Female,2023.03.20,95.20,clothing
+CUST_0263,45.0,male,2023-01-15,$120.00,BEAUTY
+CUST_0246,19.0,female,2023-05-12,$45.50,clothing
+CUST_0189,32.0,Male,15/02/2023,"$1,200.00", electronics 
+CUST_0294,32.0,Male,15/02/2023,$120.00,Clothing
+CUST_0246,32.0,female,15/02/2023,$120.00,Electronics
+CUST_0247,45.0,Female,2023-01-15,$120.00, electronics 
+CUST_0195,25.0,Male,2023.03.20,$45.50,Clothing
+CUST_0298,32.0,female,"April 5, 2023",$45.50,beauty
+CUST_0151,32.0,female,"April 5, 2023",$45.50,Electronics
+CUST_0260,58.0,male,2023-01-15,350.75,clothing
+CUST_0267,32.0,male,2023.03.20,$45.50,beauty
+CUST_0227,25.0,,2023.03.20,"$1,200.00",BEAUTY
+CUST_0138,25.0,Female,2023-05-12,$120.00,BEAUTY
+CUST_0181,32.0,Female,15/02/2023,"$8,500.00",Electronics
+CUST_0203,58.0,female,15/02/2023,95.20,beauty
+CUST_0228,32.0,male,2023.03.20,$120.00, electronics 
+CUST_0110,45.0,M,2023.03.20,$15.00,Clothing
+CUST_0284,45.0,male,2023.03.20,95.20, electronics 
+CUST_0277,32.0,female,15/02/2023,,Clothing
+CUST_0250,25.0,Female,2023.03.20,"$1,200.00",Electronics
+CUST_0258,58.0,Female,2023-05-12,$45.50,clothing
+CUST_0141,25.0,male,2023.03.20,"$1,200.00",Electronics
+CUST_0198,32.0,Male,2023-05-12,"$1,200.00", electronics 
+CUST_0106,120.0,Female,2023.03.20,"$1,200.00",Clothing
+CUST_0243,19.0,female,2023-05-12,$120.00,beauty
+CUST_0189,19.0,Female,2023-05-12,95.20,
+CUST_0211,25.0,Male,15/02/2023,, electronics 
+CUST_0159,,female,2023-05-12,$120.00,BEAUTY
+CUST_0212,19.0,Male,2023-01-15,$45.50,Clothing
+CUST_0101,19.0,,2023-05-12,$45.50,Electronics
+CUST_0228,19.0,Male,2023.03.20,95.20, electronics 
+CUST_0147,19.0,Female,2023-01-15,"$1,200.00",Clothing
+CUST_0239,19.0,Male,2023.03.20,"$1,200.00",beauty
+CUST_0296,32.0,F,,350.75,Clothing
+CUST_0136,32.0,M,2023-01-15,"$1,200.00",clothing
+CUST_0259,25.0,Male,2023.03.20,$120.00,clothing
+CUST_0108,25.0,male,"April 5, 2023",350.75, electronics 
+CUST_0198,19.0,Male,2023-05-12,$15.00,BEAUTY
+CUST_0246,25.0,Male,15/02/2023,,BEAUTY
+CUST_0147,32.0,F,2023-01-15,"$8,500.00", electronics 
+CUST_0230,45.0,M,2023-01-15,"$8,500.00",beauty
+CUST_0247,19.0,female,2023.03.20,350.75,Electronics
+CUST_0251,32.0,Female,2023.03.20,350.75,
+CUST_0153,25.0,Female,2023-05-12,$15.00,clothing
+CUST_0219,58.0,Male,2023-01-15,"$8,500.00", electronics 
+CUST_0260,45.0,Male,"April 5, 2023",$45.50,clothing
+CUST_0251,32.0,female,2023-01-15,$120.00,clothing
+CUST_0215,25.0,,2023-01-15,$45.50, electronics 
+CUST_0174,58.0,male,2023.03.20,"$1,200.00",Clothing
+CUST_0212,19.0,male,2023.03.20,$120.00,Clothing
+CUST_0299,19.0,M,"April 5, 2023",$120.00,BEAUTY
+CUST_0263,25.0,,2023-05-12,$45.50, electronics 
+CUST_0265,19.0,male,2023.03.20,$120.00,clothing
+CUST_0203,,M,,95.20, electronics 
+CUST_0183,45.0,F,2023-05-12,$120.00,BEAUTY
+CUST_0211,25.0,Male,2023.03.20,"$1,200.00", electronics 
+CUST_0198,32.0,Male,2023-05-12,"$1,200.00",beauty
+CUST_0252,-5.0,Female,2023.03.20,95.20,BEAUTY
+CUST_0192,58.0,F,2023-01-15,$45.50,clothing
+CUST_0245,32.0,Male,"April 5, 2023",,clothing
+CUST_0227,58.0,M,2023-01-15,"$1,200.00", electronics 
+CUST_0209,120.0,M,2023.03.20,,Electronics
+CUST_0181,45.0,M,"April 5, 2023","$8,500.00",beauty
+CUST_0293,19.0,Female,2023-01-15,$120.00,beauty
+CUST_0153,25.0,M,2023-01-15,$45.50, electronics 
+CUST_0262,58.0,M,2023-05-12,$120.00,Clothing
+CUST_0288,25.0,M,2023.03.20,350.75,BEAUTY
+CUST_0268,58.0,Female,2023-01-15,$45.50,Clothing
+CUST_0260,19.0,Female,"April 5, 2023",$45.50, electronics 
+CUST_0167,19.0,female,2023.03.20,350.75,Electronics
+CUST_0132,25.0,Male,2023.03.20,$45.50,Electronics
+CUST_0241,19.0,female,,$45.50,beauty
+CUST_0120,,female,"April 5, 2023",350.75,clothing
+CUST_0147,58.0,male,15/02/2023,$45.50,clothing
+CUST_0247,58.0,M,2023-05-12,$120.00,beauty
+CUST_0227,32.0,M,2023-05-12,350.75,Clothing
+CUST_0235,25.0,Male,2023-01-15,350.75,beauty
+CUST_0234,32.0,male,2023-01-15,95.20,clothing
+CUST_0294,32.0,Male,2023-01-15,350.75, electronics 
+CUST_0244,32.0,male,"April 5, 2023",350.75,beauty
+CUST_0227,25.0,female,2023.03.20,350.75,clothing
+CUST_0132,32.0,male,2023.03.20,95.20, electronics 
+CUST_0275,32.0,female,2023-05-12,95.20,Electronics
+CUST_0286,120.0,Female,"April 5, 2023",95.20, electronics 
+CUST_0214,58.0,female,2023-01-15,"$1,200.00",clothing
+CUST_0218,32.0,Female,15/02/2023,$45.50,beauty
+CUST_0121,32.0,Male,15/02/2023,$120.00,beauty
+CUST_0257,45.0,Female,15/02/2023,$45.50,beauty
+CUST_0137,19.0,Male,"April 5, 2023","$8,500.00", electronics 
+CUST_0208,58.0,M,2023-05-12,"$1,200.00",clothing
+CUST_0150,58.0,F,15/02/2023,$15.00, electronics 
+CUST_0281,32.0,Male,2023.03.20,$120.00,beauty
+CUST_0107,25.0,male,"April 5, 2023",95.20,clothing
+CUST_0126,25.0,Female,15/02/2023,$120.00,Clothing
+CUST_0126,32.0,F,2023-01-15,$45.50,BEAUTY
+CUST_0120,19.0,Female,2023.03.20,$120.00,clothing
+CUST_0129,58.0,male,2023-01-15,"$1,200.00",Electronics
+CUST_0196,19.0,Female,2023-05-12,350.75,
+CUST_0127,25.0,male,2023-01-15,95.20,
+CUST_0210,,Female,15/02/2023,$45.50,Electronics
+CUST_0291,45.0,,2023.03.20,"$1,200.00",clothing
+CUST_0296,25.0,Female,,350.75,
+CUST_0160,25.0,female,2023-01-15,$120.00, electronics 
+CUST_0147,19.0,Male,2023-01-15,95.20,clothing
+CUST_0246,45.0,Female,2023-01-15,$15.00, electronics 
+CUST_0103,19.0,female,2023-01-15,$15.00,clothing
+CUST_0134,32.0,Male,2023-01-15,95.20, electronics 
+CUST_0291,,female,2023.03.20,$15.00,clothing
+CUST_0148,19.0,male,2023-01-15,$120.00,Electronics
+CUST_0116,58.0,Female,2023-01-15,$15.00,clothing
+CUST_0271,120.0,female,2023-05-12,$120.00,
+CUST_0257,19.0,Female,15/02/2023,$120.00,BEAUTY
+CUST_0145,58.0,Male,15/02/2023,$45.50,beauty
+CUST_0216,32.0,Female,15/02/2023,$15.00,Clothing
+CUST_0105,58.0,Female,,$15.00, electronics 
+CUST_0198,32.0,F,2023-01-15,$120.00,Electronics
+CUST_0223,45.0,M,2023-05-12,$15.00,beauty
+CUST_0136,32.0,male,"April 5, 2023","$8,500.00",clothing
+CUST_0123,58.0,female,2023-01-15,$45.50, electronics 
+CUST_0192,45.0,M,,$120.00,BEAUTY
+CUST_0145,32.0,Female,15/02/2023,$15.00,Electronics
+CUST_0280,58.0,Female,2023-01-15,$120.00,Electronics
+CUST_0194,25.0,F,2023-05-12,"$1,200.00",
+CUST_0198,19.0,Female,"April 5, 2023",$45.50,beauty
+CUST_0287,19.0,Female,2023.03.20,350.75,clothing
+CUST_0215,25.0,Male,2023-01-15,$15.00,
+CUST_0290,25.0,Male,2023.03.20,"$1,200.00",Clothing
+CUST_0259,,Male,"April 5, 2023",95.20,BEAUTY
+CUST_0260,19.0,Male,15/02/2023,95.20, electronics 
+CUST_0166,45.0,Female,15/02/2023,$15.00, electronics 
+CUST_0227,19.0,female,2023-01-15,"$1,200.00",Clothing
+CUST_0117,58.0,Female,2023-01-15,$45.50,beauty
+CUST_0124,,female,2023-05-12,350.75,Clothing
+CUST_0153,32.0,,15/02/2023,$45.50, electronics 
+CUST_0157,58.0,female,,95.20, electronics 
+CUST_0166,19.0,Female,15/02/2023,$120.00,beauty
+CUST_0203,58.0,Female,"April 5, 2023","$1,200.00", electronics 
+CUST_0273,25.0,M,15/02/2023,$120.00,clothing
+CUST_0123,58.0,Male,15/02/2023,$15.00, electronics 
+CUST_0213,19.0,male,2023-01-15,95.20, electronics 
+CUST_0131,32.0,F,15/02/2023,$120.00,Clothing
+CUST_0274,45.0,female,2023.03.20,95.20,Clothing
+CUST_0185,25.0,Male,,$120.00,Electronics
+CUST_0250,19.0,M,"April 5, 2023",350.75,Electronics
+CUST_0293,19.0,female,2023-01-15,95.20,BEAUTY
+CUST_0226,25.0,Male,2023-01-15,$120.00,Electronics
+CUST_0254,32.0,male,2023-01-15,,clothing
+CUST_0229,19.0,female,2023.03.20,$45.50,
+CUST_0116,25.0,M,"April 5, 2023",$45.50, electronics 
+CUST_0203,19.0,Male,2023-05-12,"$8,500.00",beauty
+CUST_0260,58.0,Female,2023-01-15,$45.50, electronics 
+CUST_0236,19.0,female,2023.03.20,,Clothing
+CUST_0142,25.0,Female,2023.03.20,,clothing
+CUST_0275,19.0,Male,"April 5, 2023",$45.50,
+CUST_0138,25.0,male,2023.03.20,350.75,Electronics
+CUST_0269,58.0,M,"April 5, 2023",$45.50,clothing
+CUST_0125,25.0,Female,"April 5, 2023",350.75,
+CUST_0198,19.0,female,2023-01-15,$45.50,clothing
+CUST_0149,45.0,Male,"April 5, 2023",$120.00,clothing
+CUST_0252,45.0,F,2023-01-15,$120.00,Electronics
+CUST_0251,19.0,Male,"April 5, 2023",350.75,BEAUTY
+CUST_0112,45.0,male,15/02/2023,, electronics 
+CUST_0159,,Male,2023.03.20,95.20, electronics 
+CUST_0234,19.0,male,2023-05-12,$15.00,Clothing
+CUST_0156,45.0,Female,2023-05-12,350.75,Electronics
+CUST_0135,45.0,Female,2023-05-12,95.20,
+CUST_0272,32.0,Male,2023.03.20,$120.00,beauty
+CUST_0119,19.0,Female,"April 5, 2023",$15.00,BEAUTY
+CUST_0164,19.0,Male,2023.03.20,,BEAUTY
+CUST_0107,58.0,female,2023-05-12,$120.00,Clothing
+CUST_0243,120.0,F,15/02/2023,"$1,200.00", electronics 
+CUST_0241,45.0,male,,95.20,BEAUTY
+CUST_0214,25.0,Female,2023-05-12,"$8,500.00",Electronics
+CUST_0242,32.0,male,"April 5, 2023",$15.00,Electronics
+CUST_0191,32.0,Male,15/02/2023,$120.00,BEAUTY
+CUST_0197,25.0,male,2023-01-15,$120.00,clothing
+CUST_0165,19.0,female,2023-05-12,$45.50,beauty
+CUST_0131,58.0,Female,2023-01-15,$15.00,Electronics
+CUST_0290,25.0,Male,2023-05-12,$45.50,Clothing
+CUST_0185,58.0,female,2023.03.20,95.20, electronics 
+CUST_0150,25.0,Female,15/02/2023,$45.50,Clothing
+CUST_0252,19.0,female,2023-05-12,$45.50,BEAUTY
+CUST_0285,19.0,Female,2023.03.20,350.75,Clothing
+CUST_0162,32.0,Female,2023.03.20,$15.00,Electronics
+CUST_0289,,Male,2023.03.20,$45.50, electronics 
+CUST_0224,19.0,Male,15/02/2023,350.75, electronics 
+CUST_0249,58.0,,"April 5, 2023",350.75,Clothing
+CUST_0157,32.0,Male,15/02/2023,$120.00,beauty
+CUST_0157,58.0,,2023-05-12,$45.50,Electronics
+CUST_0185,25.0,Female,2023-05-12,95.20,BEAUTY
+CUST_0148,58.0,Male,15/02/2023,350.75,beauty
+CUST_0279,45.0,Male,"April 5, 2023",$45.50,clothing
+CUST_0269,25.0,Male,2023.03.20,95.20,Clothing
+CUST_0169,19.0,F,15/02/2023,,BEAUTY
+CUST_0114,58.0,M,,"$1,200.00",Electronics
+CUST_0153,,male,2023-01-15,350.75,Electronics
+CUST_0287,19.0,male,15/02/2023,95.20, electronics 
+CUST_0200,45.0,Male,2023.03.20,,
+CUST_0107,58.0,Female,2023.03.20,$15.00,beauty
+CUST_0152,58.0,Male,2023.03.20,350.75,BEAUTY
+CUST_0159,,female,"April 5, 2023","$1,200.00", electronics 
+CUST_0207,45.0,male,2023.03.20,$15.00,clothing
+CUST_0104,25.0,male,2023.03.20,$45.50, electronics 
+CUST_0202,25.0,M,2023-01-15,350.75, electronics 
+CUST_0295,25.0,M,15/02/2023,95.20,Clothing
+CUST_0105,45.0,,2023-01-15,"$1,200.00",
+CUST_0208,45.0,Female,15/02/2023,350.75,beauty
+CUST_0215,25.0,Male,2023.03.20,"$1,200.00",Clothing
+CUST_0193,58.0,Female,2023-01-15,$45.50, electronics 
+CUST_0146,45.0,Male,15/02/2023,350.75,Electronics
+CUST_0198,32.0,Male,2023-01-15,$15.00,Electronics
+CUST_0154,32.0,,2023-05-12,$120.00,BEAUTY
+CUST_0267,32.0,female,2023-05-12,$45.50,BEAUTY
+CUST_0151,19.0,,2023.03.20,,clothing
+CUST_0243,25.0,M,2023-05-12,$120.00,clothing
+CUST_0112,19.0,Female,"April 5, 2023",$120.00, electronics 
+CUST_0213,19.0,Male,2023.03.20,,Electronics
+CUST_0223,32.0,Male,2023-01-15,$15.00,clothing
+CUST_0205,32.0,female,"April 5, 2023","$1,200.00", electronics 
+CUST_0257,19.0,male,"April 5, 2023",95.20,clothing
+CUST_0246,45.0,female,2023.03.20,$45.50,beauty
+CUST_0244,25.0,Female,"April 5, 2023",$15.00,Clothing
+CUST_0219,58.0,Male,2023.03.20,350.75, electronics 
+CUST_0162,,Female,"April 5, 2023",95.20, electronics 
+CUST_0118,19.0,Female,2023-05-12,350.75,clothing
+CUST_0191,32.0,Male,15/02/2023,"$1,200.00",clothing
+CUST_0157,19.0,female,"April 5, 2023",350.75,clothing
+CUST_0282,32.0,Female,2023.03.20,350.75,clothing
+CUST_0189,32.0,Male,"April 5, 2023",$15.00,Clothing
+CUST_0216,25.0,Female,"April 5, 2023","$1,200.00",BEAUTY
+CUST_0161,32.0,,2023-01-15,"$1,200.00",Electronics
+CUST_0122,25.0,Male,2023.03.20,350.75,BEAUTY
+CUST_0226,19.0,female,2023-01-15,350.75,Electronics
+CUST_0236,45.0,Male,"April 5, 2023",$15.00, electronics 
+CUST_0239,25.0,female,2023.03.20,95.20,Clothing
+CUST_0228,32.0,female,"April 5, 2023","$1,200.00",Clothing
+CUST_0157,25.0,male,2023-01-15,"$8,500.00",beauty
+CUST_0221,-5.0,male,2023.03.20,95.20,BEAUTY
+CUST_0100,19.0,female,15/02/2023,"$1,200.00",beauty
+CUST_0133,32.0,M,2023-05-12,"$1,200.00",beauty
+CUST_0195,45.0,female,2023-05-12,"$8,500.00",Clothing
+CUST_0225,25.0,Male,,"$1,200.00",clothing
+CUST_0217,-5.0,female,"April 5, 2023",95.20,Clothing
+CUST_0147,45.0,Female,"April 5, 2023","$1,200.00",
+CUST_0188,45.0,F,2023-01-15,"$1,200.00",BEAUTY
+CUST_0216,45.0,Male,15/02/2023,$120.00, electronics 
+CUST_0228,,Female,2023.03.20,350.75,BEAUTY
+CUST_0115,58.0,Female,"April 5, 2023",, electronics 
+CUST_0288,45.0,male,2023-05-12,"$1,200.00",clothing
+CUST_0291,45.0,M,2023-01-15,"$1,200.00",Electronics
+CUST_0290,19.0,Male,2023-05-12,"$8,500.00",Clothing
+CUST_0168,19.0,female,"April 5, 2023","$1,200.00",beauty
+CUST_0121,32.0,Female,2023.03.20,350.75,Electronics
+CUST_0192,19.0,Male,2023-01-15,$15.00, electronics 
+CUST_0294,32.0,Female,2023-01-15,$15.00,Electronics
+CUST_0175,25.0,M,2023.03.20,$45.50,Clothing
+CUST_0253,25.0,Male,"April 5, 2023",350.75,Electronics
+CUST_0243,45.0,,2023-01-15,350.75,Electronics
+CUST_0278,,F,2023.03.20,$120.00, electronics 
+CUST_0185,19.0,Female,2023-05-12,350.75,clothing
+CUST_0284,32.0,Male,2023-05-12,350.75,Electronics
+CUST_0128,58.0,female,2023-05-12,$45.50,BEAUTY
+CUST_0168,19.0,Female,15/02/2023,350.75, electronics 
+CUST_0146,58.0,male,15/02/2023,$45.50,Clothing
+CUST_0193,25.0,Female,"April 5, 2023","$1,200.00",Electronics
+CUST_0289,25.0,Female,15/02/2023,95.20,clothing
+CUST_0296,-5.0,Female,2023-01-15,$15.00,Electronics
+CUST_0243,25.0,M,15/02/2023,$120.00,BEAUTY
+CUST_0275,45.0,Female,15/02/2023,$45.50,beauty
+CUST_0184,58.0,F,15/02/2023,$120.00,beauty
+CUST_0138,19.0,male,15/02/2023,350.75,Clothing
+CUST_0199,45.0,Female,15/02/2023,$120.00,clothing
+CUST_0132,,F,2023-01-15,350.75,BEAUTY
+CUST_0200,19.0,M,2023.03.20,$120.00,Clothing
+CUST_0122,58.0,M,2023.03.20,95.20, electronics 
+CUST_0109,32.0,Female,"April 5, 2023",$120.00,beauty
+CUST_0168,32.0,Female,2023-01-15,$120.00,clothing
+CUST_0199,32.0,female,15/02/2023,95.20, electronics 
+CUST_0133,25.0,M,2023.03.20,$120.00,Electronics
+CUST_0279,,,2023.03.20,$45.50,Electronics
+CUST_0237,,Male,2023.03.20,"$1,200.00",clothing
+CUST_0246,32.0,Male,15/02/2023,"$1,200.00",Electronics
+CUST_0285,45.0,Female,2023-05-12,$15.00, electronics 
+CUST_0195,32.0,male,15/02/2023,$120.00, electronics 
+CUST_0100,32.0,Male,2023.03.20,350.75,Clothing
+CUST_0168,45.0,male,"April 5, 2023",$120.00,BEAUTY
+CUST_0103,32.0,male,2023.03.20,$45.50,Electronics
+CUST_0115,32.0,Male,15/02/2023,95.20, electronics 
+CUST_0123,45.0,,15/02/2023,$15.00, electronics 
+CUST_0179,32.0,Male,"April 5, 2023",$120.00,beauty
+CUST_0101,19.0,female,15/02/2023,"$1,200.00",clothing
+CUST_0227,19.0,female,2023-01-15,$120.00,clothing
+CUST_0259,25.0,F,15/02/2023,95.20, electronics 
+CUST_0183,45.0,Male,2023-05-12,$45.50,BEAUTY
+CUST_0251,32.0,female,2023-01-15,$45.50,clothing
+CUST_0239,45.0,Female,,350.75,Electronics
+CUST_0277,32.0,Female,2023.03.20,"$1,200.00", electronics 
+CUST_0262,32.0,Female,,"$1,200.00",clothing
+CUST_0223,25.0,female,2023-05-12,$45.50,beauty
+CUST_0132,32.0,male,2023.03.20,$120.00,beauty
+CUST_0260,45.0,female,2023-01-15,350.75,Clothing
+CUST_0288,58.0,Female,2023-01-15,$120.00,BEAUTY
+CUST_0278,25.0,female,2023-01-15,95.20, electronics 
+CUST_0270,19.0,,"April 5, 2023",$45.50,Clothing
+CUST_0200,19.0,Male,15/02/2023,350.75,Clothing
+CUST_0111,19.0,,15/02/2023,"$1,200.00",Electronics
+CUST_0166,45.0,Male,15/02/2023,$120.00,beauty
+CUST_0164,25.0,Male,2023-05-12,"$1,200.00", electronics 
+CUST_0260,32.0,Male,2023-01-15,95.20,Electronics
+CUST_0267,32.0,male,2023-01-15,$45.50,Clothing
+CUST_0173,19.0,Female,2023-01-15,"$8,500.00",Clothing
+CUST_0142,25.0,Male,2023-05-12,"$1,200.00",Clothing
+CUST_0143,25.0,Male,2023.03.20,$120.00, electronics 
+CUST_0128,25.0,F,15/02/2023,350.75,beauty
+CUST_0240,25.0,female,2023-01-15,$120.00,clothing
+CUST_0111,58.0,female,15/02/2023,$15.00,clothing
+CUST_0194,19.0,F,2023-01-15,$15.00,
+CUST_0145,,Female,2023-05-12,95.20,BEAUTY
+CUST_0229,25.0,Male,"April 5, 2023",, electronics 
+CUST_0134,58.0,male,2023.03.20,$15.00,BEAUTY
+CUST_0180,32.0,Female,2023-05-12,"$1,200.00", electronics 
+CUST_0189,45.0,male,2023-01-15,$120.00, electronics 
+CUST_0107,45.0,Female,"April 5, 2023",350.75,clothing
+CUST_0192,32.0,Male,2023-05-12,$45.50,
+CUST_0253,32.0,male,15/02/2023,$15.00, electronics 
+CUST_0189,32.0,Female,"April 5, 2023",350.75,Clothing
+CUST_0261,32.0,Female,15/02/2023,$45.50, electronics 
+CUST_0214,19.0,Female,15/02/2023,$45.50,BEAUTY
+CUST_0204,25.0,Female,2023-01-15,$120.00,clothing
+CUST_0234,32.0,Male,15/02/2023,"$1,200.00",Clothing
+CUST_0295,32.0,Male,"April 5, 2023",350.75,Electronics
+CUST_0157,45.0,female,2023-05-12,"$1,200.00",BEAUTY
+CUST_0213,45.0,Female,2023.03.20,350.75,
+CUST_0174,120.0,Male,2023-05-12,"$1,200.00",Clothing
+CUST_0256,25.0,female,2023-05-12,$120.00,clothing
+CUST_0219,25.0,Male,2023-01-15,$45.50,beauty
+CUST_0263,25.0,M,2023.03.20,"$1,200.00", electronics 
+CUST_0120,32.0,Male,2023-01-15,350.75,BEAUTY
+CUST_0263,58.0,Female,"April 5, 2023",$45.50,beauty
+CUST_0237,25.0,Female,2023-05-12,$120.00, electronics 
+CUST_0200,45.0,Male,2023-01-15,$45.50,clothing
+CUST_0251,25.0,female,"April 5, 2023",350.75,Electronics
+CUST_0291,32.0,M,2023.03.20,$120.00,Clothing
+CUST_0276,32.0,male,2023.03.20,"$1,200.00",Clothing
+CUST_0198,25.0,Male,15/02/2023,95.20,Electronics
+CUST_0135,32.0,male,15/02/2023,$120.00,clothing
+CUST_0195,25.0,Male,2023-01-15,,Electronics
+CUST_0251,19.0,Female,2023-01-15,350.75,clothing
+CUST_0250,25.0,female,2023-01-15,"$1,200.00", electronics 
+CUST_0289,19.0,Female,2023.03.20,"$1,200.00",beauty
+CUST_0136,25.0,Male,2023-01-15,"$1,200.00", electronics 
+CUST_0111,32.0,Male,2023-05-12,350.75,beauty
+CUST_0212,32.0,Male,2023.03.20,350.75,Clothing
+CUST_0282,45.0,M,"April 5, 2023",$45.50,Electronics
+CUST_0112,19.0,female,15/02/2023,$45.50,BEAUTY
+CUST_0122,45.0,Male,2023.03.20,$120.00,clothing
+CUST_0198,25.0,Female,2023-05-12,$120.00,clothing
+CUST_0204,25.0,female,2023-01-15,$120.00, electronics 
+CUST_0129,58.0,M,15/02/2023,$45.50,clothing
+CUST_0116,19.0,female,"April 5, 2023",$15.00,Electronics
+CUST_0212,32.0,Female,2023-01-15,95.20, electronics 
+CUST_0161,32.0,Female,2023-01-15,"$8,500.00",clothing
+CUST_0183,25.0,Female,15/02/2023,350.75, electronics 
+CUST_0211,25.0,M,2023-01-15,$15.00,Electronics
+CUST_0185,25.0,Male,2023.03.20,95.20, electronics 
+CUST_0240,58.0,male,2023-01-15,350.75, electronics 
+CUST_0286,25.0,male,2023-05-12,$120.00, electronics 
+CUST_0118,25.0,Female,"April 5, 2023","$8,500.00",
+CUST_0276,25.0,Male,"April 5, 2023",350.75, electronics 
+CUST_0199,45.0,F,2023.03.20,350.75,Clothing
+CUST_0239,19.0,Female,2023-05-12,$45.50, electronics 
+CUST_0288,25.0,M,2023-01-15,$45.50,beauty
+CUST_0246,32.0,Male,2023-05-12,95.20, electronics 
+CUST_0175,,F,"April 5, 2023","$1,200.00",
+CUST_0108,25.0,female,"April 5, 2023",$120.00,Clothing
+CUST_0298,25.0,Female,2023.03.20,$45.50, electronics 
+CUST_0127,25.0,male,2023-01-15,"$1,200.00",beauty
+CUST_0227,32.0,M,15/02/2023,"$1,200.00",clothing
+CUST_0151,25.0,Male,"April 5, 2023",$120.00,Electronics
+CUST_0182,32.0,Male,2023-01-15,95.20,BEAUTY
+CUST_0210,45.0,female,"April 5, 2023",$45.50,beauty
+CUST_0243,45.0,Female,2023-01-15,$120.00,clothing
+CUST_0216,25.0,Female,2023-01-15,"$1,200.00",Electronics
+CUST_0168,58.0,F,2023-01-15,$120.00,BEAUTY
+CUST_0198,32.0,Female,2023-01-15,95.20,Clothing
+CUST_0239,32.0,M,2023.03.20,$15.00,beauty
+CUST_0124,19.0,male,2023-01-15,$15.00,Clothing
+CUST_0279,120.0,F,,$45.50,Electronics
+CUST_0222,19.0,Male,2023.03.20,$45.50,beauty
+CUST_0152,25.0,F,2023-01-15,$120.00, electronics 
+CUST_0250,19.0,female,"April 5, 2023",350.75,Electronics
+CUST_0243,32.0,Male,2023-05-12,$15.00,clothing
+CUST_0156,25.0,Female,"April 5, 2023",95.20,Clothing
+CUST_0138,19.0,female,2023-01-15,$15.00, electronics 
+CUST_0208,19.0,Female,2023-05-12,"$8,500.00",BEAUTY
+CUST_0280,19.0,F,"April 5, 2023",$15.00,clothing
+CUST_0141,32.0,F,2023-01-15,$120.00,clothing
+CUST_0285,45.0,M,2023-01-15,$120.00,BEAUTY
+CUST_0266,25.0,male,2023.03.20,"$1,200.00",clothing
+CUST_0241,32.0,F,2023-01-15,$45.50, electronics 
+CUST_0221,45.0,Female,2023-05-12,$45.50, electronics 
+CUST_0232,19.0,Male,15/02/2023,350.75,
+CUST_0262,25.0,Male,2023-05-12,95.20, electronics 
+CUST_0174,-5.0,Female,2023.03.20,$45.50,clothing
+CUST_0245,32.0,F,2023-01-15,$15.00,clothing
+CUST_0175,25.0,female,2023-01-15,95.20,clothing
+CUST_0108,32.0,Female,2023.03.20,350.75, electronics 
+CUST_0173,25.0,Male,"April 5, 2023",$45.50,clothing
+CUST_0285,32.0,male,"April 5, 2023",$45.50,clothing
+CUST_0244,19.0,female,15/02/2023,$15.00,
+CUST_0106,19.0,Male,2023-01-15,$15.00, electronics 
+CUST_0273,19.0,male,2023-01-15,95.20,clothing
+CUST_0240,,Male,"April 5, 2023","$1,200.00",clothing
+CUST_0267,45.0,Female,2023-01-15,$45.50,clothing
+CUST_0269,19.0,F,15/02/2023,$45.50,Clothing
+CUST_0236,19.0,male,2023.03.20,$15.00,Electronics
+CUST_0277,45.0,M,2023-05-12,$45.50,Electronics
+CUST_0126,19.0,Female,15/02/2023,$120.00,BEAUTY
+CUST_0221,25.0,,2023-01-15,350.75,clothing
+CUST_0293,,Male,"April 5, 2023",$45.50,clothing
+CUST_0104,25.0,Female,2023.03.20,$120.00, electronics 
+CUST_0128,45.0,male,15/02/2023,350.75, electronics 
+CUST_0264,-5.0,female,2023-05-12,$120.00, electronics 
+CUST_0265,25.0,M,2023-05-12,$45.50, electronics 
+CUST_0182,19.0,Male,2023-01-15,$15.00,Clothing
+CUST_0235,25.0,Female,2023-01-15,95.20,beauty
+CUST_0208,58.0,female,2023.03.20,$120.00,Electronics
+CUST_0164,58.0,Male,"April 5, 2023",$15.00,Electronics
+CUST_0185,45.0,female,2023-01-15,$120.00, electronics 
+CUST_0244,19.0,Male,"April 5, 2023",350.75,clothing
+CUST_0170,45.0,Female,2023.03.20,95.20, electronics 
+CUST_0144,58.0,M,2023-01-15,$15.00,beauty
+CUST_0231,32.0,Female,"April 5, 2023",95.20,Clothing
+CUST_0135,,male,2023-05-12,$45.50,
+CUST_0169,58.0,female,2023-01-15,$45.50,beauty
+CUST_0258,45.0,female,15/02/2023,95.20,clothing
+CUST_0118,32.0,Female,15/02/2023,$120.00,clothing
+CUST_0288,25.0,female,2023-05-12,$120.00, electronics 
+CUST_0207,19.0,female,,$15.00,clothing
+CUST_0281,32.0,Male,15/02/2023,95.20,beauty
+CUST_0266,25.0,male,"April 5, 2023",95.20, electronics 
+CUST_0190,58.0,F,2023.03.20,$120.00,beauty
+CUST_0189,120.0,Male,2023.03.20,95.20,Electronics
+CUST_0118,45.0,female,15/02/2023,$45.50,beauty
+CUST_0138,19.0,,2023-01-15,$45.50,beauty
+CUST_0225,25.0,Male,15/02/2023,"$1,200.00",Clothing
+CUST_0294,19.0,Female,2023.03.20,$45.50,Clothing
+CUST_0272,45.0,M,2023-01-15,$120.00,clothing
+CUST_0240,45.0,Female,2023-05-12,"$1,200.00",beauty
+CUST_0225,,Male,2023-01-15,$120.00,
+CUST_0157,25.0,Male,2023-01-15,$45.50,BEAUTY
+CUST_0247,58.0,Female,2023.03.20,$120.00,Clothing
+CUST_0299,58.0,female,"April 5, 2023",350.75,Clothing
+CUST_0160,25.0,female,2023-01-15,350.75,beauty
+CUST_0226,58.0,Female,15/02/2023,$15.00,clothing
+CUST_0204,25.0,Male,,$15.00,BEAUTY
+CUST_0266,25.0,Female,15/02/2023,350.75,clothing
+CUST_0100,32.0,Male,15/02/2023,95.20, electronics 
+CUST_0230,25.0,F,2023-05-12,$45.50,clothing
+CUST_0191,32.0,female,2023-01-15,$120.00,clothing
+CUST_0289,32.0,Female,2023.03.20,95.20, electronics 
+CUST_0290,32.0,F,15/02/2023,$120.00, electronics 
+CUST_0212,25.0,Male,15/02/2023,,clothing
+CUST_0252,32.0,female,15/02/2023,350.75, electronics 
+CUST_0155,32.0,male,2023-01-15,$15.00,Electronics
+CUST_0260,32.0,F,15/02/2023,350.75,BEAUTY
+CUST_0265,25.0,male,2023-01-15,350.75,
+CUST_0216,19.0,Female,"April 5, 2023",$120.00,BEAUTY
+CUST_0233,32.0,female,15/02/2023,$15.00,
+CUST_0157,19.0,Male,15/02/2023,350.75,Clothing
+CUST_0143,32.0,male,2023-05-12,"$8,500.00",Electronics
+CUST_0272,45.0,female,"April 5, 2023",$120.00,Clothing
+CUST_0259,32.0,M,2023-01-15,$45.50,BEAUTY
+CUST_0272,32.0,male,2023-05-12,$120.00,clothing
+CUST_0160,,Male,2023-01-15,"$1,200.00", electronics 
+CUST_0146,58.0,Male,2023-01-15,95.20,BEAUTY
+CUST_0248,58.0,female,"April 5, 2023",$120.00, electronics 
+CUST_0179,58.0,Female,2023.03.20,"$1,200.00",Clothing
+CUST_0217,19.0,Male,15/02/2023,$120.00, electronics 
+CUST_0263,19.0,male,2023-01-15,"$1,200.00",Clothing
+CUST_0246,32.0,male,2023.03.20,95.20,clothing
+CUST_0119,25.0,Male,15/02/2023,$120.00, electronics 
+CUST_0284,32.0,M,2023-05-12,350.75,clothing
+CUST_0245,25.0,male,2023-01-15,,Clothing
+CUST_0146,32.0,male,2023-05-12,95.20,beauty
+CUST_0148,45.0,female,2023.03.20,"$1,200.00",beauty
+CUST_0113,45.0,Male,2023-05-12,350.75,clothing
+CUST_0242,32.0,Female,"April 5, 2023",$120.00,BEAUTY
+CUST_0258,58.0,Female,"April 5, 2023",350.75,Electronics
+CUST_0100,25.0,Female,15/02/2023,95.20,Electronics
+CUST_0216,58.0,Female,2023-01-15,"$1,200.00", electronics 
+CUST_0153,19.0,Female,2023-01-15,$120.00,Clothing
+CUST_0217,,female,2023-05-12,$120.00,Electronics
+CUST_0102,45.0,Female,2023-05-12,$120.00, electronics 
+CUST_0243,25.0,Female,15/02/2023,$45.50,Clothing
+CUST_0284,19.0,female,2023-01-15,$45.50,BEAUTY
+CUST_0111,32.0,Female,15/02/2023,350.75,clothing
+CUST_0173,19.0,male,2023.03.20,$45.50, electronics 
+CUST_0115,19.0,Male,2023.03.20,$45.50,clothing
+CUST_0299,32.0,Male,"April 5, 2023",350.75,clothing
+CUST_0201,32.0,F,,$45.50,Clothing
+CUST_0251,45.0,Female,2023-01-15,$45.50,Electronics
+CUST_0255,,F,2023.03.20,$120.00,Clothing
+CUST_0216,32.0,Female,15/02/2023,$120.00,beauty
+CUST_0107,32.0,M,15/02/2023,350.75,Electronics
+CUST_0221,19.0,Male,2023-01-15,$45.50,
+CUST_0191,45.0,Female,2023-01-15,$15.00,clothing
+CUST_0263,25.0,Female,2023-05-12,"$8,500.00",Electronics
+CUST_0189,-5.0,,15/02/2023,$15.00,clothing
+CUST_0235,58.0,Male,2023.03.20,350.75, electronics 
+CUST_0285,32.0,Female,2023-05-12,95.20, electronics 
+CUST_0159,19.0,Female,"April 5, 2023","$1,200.00",clothing
+CUST_0277,58.0,Female,2023-01-15,$45.50,BEAUTY
+CUST_0127,45.0,Female,2023.03.20,$120.00,beauty
+CUST_0200,19.0,female,15/02/2023,95.20,Clothing
+CUST_0140,25.0,Male,"April 5, 2023",$120.00, electronics 
+CUST_0291,45.0,Female,"April 5, 2023",$45.50,Clothing
+CUST_0254,19.0,Female,"April 5, 2023",$15.00,Clothing
+CUST_0290,58.0,F,15/02/2023,95.20,BEAUTY
+CUST_0244,25.0,female,2023-05-12,$45.50,beauty
+CUST_0260,19.0,male,2023-01-15,350.75,beauty
+CUST_0256,58.0,male,2023-01-15,$45.50,clothing
+CUST_0240,25.0,,15/02/2023,$15.00,Clothing
+CUST_0145,32.0,Female,2023-01-15,$120.00,Electronics
+CUST_0134,19.0,F,2023-01-15,$120.00,
+CUST_0233,19.0,Male,2023-05-12,95.20, electronics 
+CUST_0181,32.0,Female,2023-05-12,350.75, electronics 
+CUST_0214,32.0,female,15/02/2023,"$1,200.00", electronics 
+CUST_0296,32.0,F,15/02/2023,350.75,BEAUTY
+CUST_0146,45.0,male,15/02/2023,$120.00,clothing
+CUST_0252,32.0,Female,15/02/2023,"$1,200.00",clothing
+CUST_0293,19.0,Female,2023-01-15,$45.50,
+CUST_0109,25.0,Male,2023-05-12,$120.00,beauty
+CUST_0155,58.0,Female,2023-01-15,$120.00,Electronics
+CUST_0129,45.0,Female,15/02/2023,"$1,200.00",Electronics
+CUST_0208,32.0,F,2023-01-15,"$8,500.00",beauty
+CUST_0104,25.0,Female,2023-05-12,,beauty
+CUST_0218,25.0,Male,"April 5, 2023",350.75,clothing
+CUST_0132,45.0,Male,2023-05-12,$120.00,Clothing
+CUST_0217,58.0,M,"April 5, 2023",350.75,Electronics
+CUST_0164,45.0,male,15/02/2023,95.20,BEAUTY
+CUST_0245,58.0,female,2023-01-15,$120.00,Clothing
+CUST_0276,45.0,male,"April 5, 2023",,clothing
+CUST_0110,19.0,F,15/02/2023,$120.00, electronics 
+CUST_0184,25.0,,2023.03.20,,beauty
+CUST_0125,19.0,Female,2023-01-15,95.20,Clothing
+CUST_0162,25.0,F,2023-01-15,95.20, electronics 
+CUST_0185,58.0,female,2023.03.20,$120.00,Clothing
+CUST_0158,32.0,Female,2023.03.20,$45.50,Clothing
+CUST_0126,32.0,Male,"April 5, 2023",$120.00,clothing
+CUST_0276,19.0,M,2023-01-15,$120.00,BEAUTY
+CUST_0260,25.0,Female,2023.03.20,$45.50,Clothing
+CUST_0197,25.0,female,2023-01-15,350.75,beauty
+CUST_0204,25.0,Female,2023-01-15,350.75, electronics 
+CUST_0198,32.0,F,15/02/2023,"$1,200.00", electronics 
+CUST_0228,25.0,Female,2023-01-15,"$1,200.00", electronics 
+CUST_0248,32.0,Male,2023-01-15,$45.50,Clothing
+CUST_0154,19.0,,15/02/2023,,Clothing
+CUST_0105,19.0,Female,15/02/2023,$45.50,beauty
+CUST_0296,25.0,male,2023-01-15,350.75,BEAUTY
+CUST_0194,32.0,Female,2023-01-15,350.75,clothing
+CUST_0232,45.0,Male,2023-01-15,95.20,
+CUST_0201,25.0,Female,2023-01-15,$45.50,Electronics
+CUST_0102,25.0,Female,2023.03.20,350.75,beauty
+CUST_0280,45.0,M,15/02/2023,"$1,200.00",clothing
+CUST_0122,19.0,,15/02/2023,$120.00,Clothing
+CUST_0152,25.0,Female,15/02/2023,"$1,200.00",BEAUTY
+CUST_0264,58.0,Male,"April 5, 2023","$8,500.00",Clothing
+CUST_0182,32.0,M,2023-05-12,, electronics 
+CUST_0244,25.0,F,"April 5, 2023",$45.50,clothing
+CUST_0184,58.0,Male,"April 5, 2023",$120.00,Clothing
+CUST_0177,45.0,Male,2023.03.20,$120.00,beauty
+CUST_0209,25.0,Male,"April 5, 2023",$120.00,clothing
+CUST_0100,32.0,Male,2023.03.20,$120.00,beauty
+CUST_0150,32.0,female,2023-01-15,$120.00,clothing
+CUST_0272,25.0,female,2023-01-15,,clothing
+CUST_0103,25.0,male,15/02/2023,"$8,500.00",BEAUTY
+CUST_0289,25.0,Female,2023-05-12,$45.50,Clothing
+CUST_0292,32.0,male,2023.03.20,$120.00,
+CUST_0212,25.0,,"April 5, 2023",350.75,Clothing
+CUST_0131,58.0,,15/02/2023,$120.00,clothing
+CUST_0133,45.0,male,15/02/2023,"$1,200.00", electronics 
+CUST_0191,19.0,female,2023-01-15,"$1,200.00",clothing
+CUST_0194,32.0,female,2023-01-15,95.20,Electronics
+CUST_0171,25.0,male,2023-05-12,$15.00,BEAUTY
+CUST_0138,32.0,Male,2023.03.20,350.75,Electronics
+CUST_0253,45.0,M,15/02/2023,"$1,200.00",Electronics
+CUST_0261,25.0,female,2023-05-12,$120.00, electronics 
+CUST_0281,32.0,,2023-01-15,"$1,200.00", electronics 
+CUST_0217,19.0,female,,350.75,Electronics
+CUST_0102,19.0,female,15/02/2023,$45.50,beauty
+CUST_0222,25.0,Female,15/02/2023,$120.00,BEAUTY
+CUST_0149,25.0,female,15/02/2023,$120.00,BEAUTY
+CUST_0111,120.0,female,2023-01-15,"$8,500.00",BEAUTY
+CUST_0292,25.0,male,2023-01-15,$120.00,Electronics
+CUST_0153,25.0,Female,2023.03.20,$120.00,beauty
+CUST_0232,32.0,female,2023-05-12,$120.00, electronics 
+CUST_0156,19.0,Male,"April 5, 2023","$1,200.00",Electronics
+CUST_0244,,female,2023-01-15,$45.50,Clothing
+CUST_0211,32.0,Male,2023.03.20,, electronics 
+CUST_0146,45.0,Female,2023-01-15,95.20,BEAUTY
+CUST_0250,19.0,female,2023-01-15,"$1,200.00",clothing
+CUST_0184,25.0,male,"April 5, 2023","$1,200.00",BEAUTY
+CUST_0241,25.0,Male,2023.03.20,$45.50,clothing
+CUST_0165,58.0,M,2023-01-15,$120.00, electronics 
+CUST_0174,19.0,F,2023-01-15,$15.00,BEAUTY
+CUST_0278,25.0,Male,,$45.50,Electronics
+CUST_0202,-5.0,F,2023-01-15,$120.00,clothing
+CUST_0265,32.0,Male,15/02/2023,"$1,200.00", electronics 
+CUST_0291,25.0,,2023.03.20,$120.00,Clothing
+CUST_0137,19.0,,2023-01-15,"$8,500.00",Clothing
+CUST_0149,-5.0,Female,2023-01-15,$45.50,clothing
+CUST_0197,19.0,Female,15/02/2023,$15.00,
+CUST_0181,45.0,Female,"April 5, 2023",350.75,beauty
+CUST_0129,45.0,Female,2023.03.20,$15.00,BEAUTY
+CUST_0178,25.0,Male,2023.03.20,$120.00,BEAUTY
+CUST_0190,45.0,Male,,350.75,Electronics
+CUST_0278,19.0,Male,"April 5, 2023",95.20,Clothing
+CUST_0290,25.0,M,15/02/2023,350.75, electronics 
+CUST_0151,45.0,male,15/02/2023,$120.00, electronics 
+CUST_0265,58.0,Female,2023.03.20,350.75,
+CUST_0178,32.0,,"April 5, 2023",$15.00,Clothing
+CUST_0129,32.0,male,2023.03.20,350.75,clothing
+CUST_0205,19.0,Female,2023.03.20,"$8,500.00",Electronics
+CUST_0150,19.0,M,2023-01-15,$120.00,Clothing
+CUST_0180,19.0,female,15/02/2023,350.75, electronics 
+CUST_0232,25.0,F,15/02/2023,$15.00, electronics 
+CUST_0128,25.0,female,2023-01-15,"$1,200.00", electronics 
+CUST_0231,25.0,,2023-01-15,95.20,clothing
+CUST_0237,25.0,Male,2023.03.20,,Clothing
+CUST_0283,25.0,female,2023.03.20,350.75, electronics 
+CUST_0244,32.0,female,15/02/2023,$45.50,BEAUTY
+CUST_0173,58.0,Male,2023.03.20,$45.50,Electronics
+CUST_0116,25.0,,2023.03.20,$15.00,Clothing
+CUST_0183,,Male,2023-01-15,95.20,
+CUST_0168,58.0,Female,"April 5, 2023",$120.00,Clothing
+CUST_0133,19.0,Male,"April 5, 2023",$45.50,beauty
+CUST_0105,45.0,M,"April 5, 2023",$45.50,beauty
+CUST_0152,32.0,Female,2023.03.20,95.20,clothing
+CUST_0293,32.0,Female,2023.03.20,$120.00,BEAUTY
+CUST_0225,25.0,M,2023-01-15,350.75,beauty
+CUST_0142,32.0,male,15/02/2023,350.75,clothing
+CUST_0214,25.0,female,2023-01-15,95.20,Electronics
+CUST_0210,32.0,Male,,"$1,200.00",beauty
+CUST_0250,32.0,M,2023-01-15,"$1,200.00",BEAUTY
+CUST_0282,45.0,F,2023-01-15,$45.50,Electronics
+CUST_0179,32.0,female,2023-05-12,350.75,clothing
+CUST_0194,45.0,M,2023-05-12,$15.00,BEAUTY
+CUST_0217,19.0,female,"April 5, 2023",,clothing
+CUST_0243,25.0,female,2023-01-15,$120.00,Clothing
+CUST_0107,58.0,F,2023-01-15,$45.50,BEAUTY
+CUST_0231,25.0,Female,15/02/2023,$45.50,Clothing
+CUST_0203,19.0,Male,2023-01-15,$120.00,clothing
+CUST_0231,19.0,male,2023-01-15,95.20,BEAUTY
+CUST_0283,25.0,male,2023.03.20,$45.50,BEAUTY
+CUST_0124,,Female,2023-05-12,350.75,Clothing
+CUST_0294,32.0,Male,15/02/2023,$120.00,clothing
+CUST_0195,,Female,"April 5, 2023",$45.50,clothing
+CUST_0294,32.0,male,"April 5, 2023",350.75,
+CUST_0254,32.0,male,15/02/2023,$120.00, electronics 
+CUST_0192,25.0,female,"April 5, 2023",$120.00,Electronics
+CUST_0259,32.0,M,2023-01-15,$15.00,clothing
+CUST_0277,19.0,Male,2023-01-15,350.75,beauty
+CUST_0160,58.0,female,"April 5, 2023",$45.50, electronics 
+CUST_0221,58.0,Male,2023-01-15,,Electronics
+CUST_0150,25.0,Female,,"$1,200.00", electronics 
+CUST_0246,,female,2023-01-15,$15.00,BEAUTY
+CUST_0120,58.0,male,2023.03.20,$45.50,Electronics
+CUST_0104,45.0,female,15/02/2023,$45.50,clothing
+CUST_0191,19.0,Female,2023-01-15,$45.50,clothing
+CUST_0269,32.0,M,2023-01-15,$45.50,beauty
+CUST_0160,32.0,Male,2023.03.20,350.75,clothing
+CUST_0121,25.0,male,2023-05-12,"$8,500.00", electronics 
+CUST_0248,19.0,F,2023-05-12,350.75,clothing
+CUST_0169,45.0,male,2023.03.20,$120.00,
+CUST_0100,19.0,Female,"April 5, 2023","$1,200.00",Clothing
+CUST_0232,32.0,Female,"April 5, 2023",$45.50,
+CUST_0111,,Female,"April 5, 2023","$1,200.00",beauty
+CUST_0189,58.0,Male,2023.03.20,"$1,200.00", electronics 
+CUST_0145,25.0,male,2023.03.20,$15.00,Clothing
+CUST_0133,58.0,Female,2023-05-12,,Electronics
+CUST_0276,19.0,Male,15/02/2023,$120.00,Clothing
+CUST_0177,19.0,Male,2023-05-12,350.75,Electronics
+CUST_0144,32.0,Male,2023.03.20,"$8,500.00",Electronics
+CUST_0254,25.0,M,2023-01-15,$15.00,beauty
+CUST_0172,25.0,F,2023-01-15,350.75,Electronics
+CUST_0125,32.0,Male,15/02/2023,"$8,500.00",beauty
+CUST_0146,19.0,Male,2023.03.20,$45.50, electronics 
+CUST_0220,25.0,male,2023-05-12,"$8,500.00", electronics 
+CUST_0155,32.0,female,2023-01-15,$45.50,beauty
+CUST_0193,45.0,Female,2023-05-12,350.75,Clothing
+CUST_0206,32.0,M,2023-05-12,95.20,BEAUTY
+CUST_0162,25.0,female,2023-01-15,$120.00,Electronics
+CUST_0147,25.0,Female,2023-05-12,350.75,clothing
+CUST_0160,19.0,F,,$120.00,BEAUTY
+CUST_0180,19.0,female,"April 5, 2023",,Clothing
+CUST_0125,45.0,male,"April 5, 2023",95.20,clothing
+CUST_0135,25.0,male,,$15.00,
+CUST_0100,19.0,Male,2023.03.20,"$1,200.00",Clothing
+CUST_0107,45.0,male,15/02/2023,95.20,beauty
+CUST_0212,32.0,,2023-05-12,$120.00,BEAUTY
+CUST_0198,32.0,M,2023.03.20,350.75,BEAUTY
+CUST_0279,25.0,Male,2023.03.20,$15.00, electronics 
+CUST_0146,25.0,female,15/02/2023,$120.00,clothing
+CUST_0226,25.0,Female,"April 5, 2023",$45.50,beauty
+CUST_0155,19.0,Male,2023-01-15,$45.50,Electronics
+CUST_0113,45.0,male,2023-05-12,$45.50, electronics 
+CUST_0127,58.0,M,15/02/2023,95.20,Electronics
+CUST_0177,45.0,female,2023-01-15,350.75,Electronics
+CUST_0229,45.0,Male,15/02/2023,$15.00,beauty
+CUST_0208,25.0,male,2023-01-15,$120.00,beauty
+CUST_0253,45.0,Female,"April 5, 2023",$120.00,clothing
+CUST_0113,25.0,male,2023-05-12,$120.00, electronics 
+CUST_0286,32.0,Female,2023-05-12,$15.00,BEAUTY
+CUST_0155,32.0,Female,2023-01-15,"$1,200.00",Clothing
+CUST_0214,19.0,male,2023-01-15,"$8,500.00",
+CUST_0106,25.0,F,2023-05-12,"$1,200.00",Clothing
+CUST_0102,,Female,2023-05-12,"$1,200.00",Electronics
+CUST_0210,25.0,Male,2023.03.20,"$1,200.00",clothing
+CUST_0250,19.0,Female,2023.03.20,"$8,500.00",
+CUST_0206,25.0,female,15/02/2023,$15.00,Clothing
+CUST_0117,45.0,Female,2023-05-12,$45.50,Clothing
+CUST_0137,32.0,Male,2023.03.20,350.75,Electronics
+CUST_0214,45.0,,15/02/2023,"$1,200.00",BEAUTY
+CUST_0114,19.0,M,15/02/2023,$15.00,BEAUTY
+CUST_0291,32.0,Male,2023-05-12,$120.00,Electronics
+CUST_0218,25.0,Male,2023-01-15,95.20,clothing
+CUST_0127,58.0,Male,15/02/2023,,Electronics
+CUST_0138,32.0,female,2023.03.20,$120.00,Electronics
+CUST_0284,19.0,Male,2023-01-15,95.20, electronics 
+CUST_0116,19.0,Male,2023-01-15,$45.50,Electronics
+CUST_0185,19.0,female,2023-05-12,$45.50,Clothing
+CUST_0225,25.0,male,2023-05-12,$45.50, electronics 
+CUST_0143,25.0,Male,2023-05-12,$45.50,Electronics
+CUST_0124,32.0,Male,2023-05-12,95.20,beauty
+CUST_0244,32.0,Male,2023.03.20,$45.50,Clothing
+CUST_0112,25.0,Male,2023-05-12,$120.00,Clothing
+CUST_0124,19.0,Female,15/02/2023,$45.50,clothing
+CUST_0167,19.0,Male,"April 5, 2023",$120.00,Clothing
+CUST_0237,58.0,Male,,$45.50, electronics 
+CUST_0166,25.0,female,2023-01-15,"$1,200.00",BEAUTY
+CUST_0208,45.0,Female,15/02/2023,$45.50, electronics 
+CUST_0245,58.0,M,2023.03.20,95.20,Clothing
+CUST_0210,32.0,Female,2023-01-15,95.20,Electronics
+CUST_0210,58.0,male,2023-01-15,$45.50,BEAUTY
+CUST_0133,25.0,Female,2023-05-12,95.20,clothing
+CUST_0210,,Female,,$45.50,clothing
+CUST_0107,19.0,male,15/02/2023,$120.00, electronics 
+CUST_0267,19.0,F,2023-01-15,$45.50,Clothing
+CUST_0212,45.0,Male,2023-01-15,$120.00,
+CUST_0182,,female,2023-05-12,350.75,beauty
+CUST_0141,58.0,Male,2023.03.20,$15.00, electronics 
+CUST_0268,19.0,female,15/02/2023,$120.00,clothing
+CUST_0200,25.0,Female,2023.03.20,$15.00,beauty
+CUST_0105,,female,15/02/2023,$45.50,clothing
+CUST_0279,25.0,Male,2023.03.20,$15.00,Clothing
+CUST_0125,45.0,Female,2023-05-12,$120.00,beauty
+CUST_0163,58.0,Female,2023.03.20,$45.50,beauty
+CUST_0286,32.0,Female,"April 5, 2023",$45.50,clothing
+CUST_0283,25.0,Female,15/02/2023,$45.50,clothing
+CUST_0158,32.0,Female,"April 5, 2023",350.75,Electronics
+CUST_0208,25.0,M,"April 5, 2023",95.20,BEAUTY
+CUST_0297,58.0,male,2023-01-15,$45.50,Electronics
+CUST_0220,32.0,Female,2023.03.20,$15.00,Electronics
+CUST_0132,58.0,Male,15/02/2023,"$1,200.00",clothing
+CUST_0280,19.0,,2023-05-12,95.20, electronics 
+CUST_0249,120.0,Female,15/02/2023,$120.00,Clothing
+CUST_0120,25.0,,,350.75,Clothing
+CUST_0297,19.0,Male,2023-01-15,"$8,500.00",clothing
+CUST_0169,19.0,female,"April 5, 2023","$1,200.00",clothing
+CUST_0211,45.0,female,"April 5, 2023",$120.00,beauty
+CUST_0103,45.0,Female,"April 5, 2023",$45.50, electronics 
+CUST_0193,58.0,Female,15/02/2023,$120.00,BEAUTY
+CUST_0174,19.0,male,2023.03.20,"$1,200.00",beauty
+CUST_0289,19.0,female,"April 5, 2023",$15.00,clothing
+CUST_0161,32.0,Female,2023-01-15,$45.50,Clothing
+CUST_0193,25.0,Male,2023-01-15,"$1,200.00",beauty
+CUST_0194,32.0,male,2023.03.20,"$1,200.00",Electronics
+CUST_0251,120.0,F,2023.03.20,350.75,clothing
+CUST_0154,-5.0,female,15/02/2023,"$1,200.00",clothing
+CUST_0236,,,15/02/2023,95.20,Electronics
+CUST_0230,45.0,Female,15/02/2023,$120.00,BEAUTY
+CUST_0130,25.0,Male,"April 5, 2023",95.20,beauty
+CUST_0139,25.0,Male,"April 5, 2023",$45.50,BEAUTY
+CUST_0135,32.0,Male,2023-05-12,$45.50, electronics 
+CUST_0251,58.0,Male,,$120.00, electronics 
+CUST_0105,19.0,male,2023.03.20,$45.50,Clothing
+CUST_0165,25.0,Male,2023-01-15,$120.00, electronics 
+CUST_0174,19.0,M,2023-01-15,$45.50,Clothing
+CUST_0103,32.0,F,15/02/2023,95.20,clothing
+CUST_0178,58.0,M,2023-05-12,$45.50,Clothing
+CUST_0233,45.0,female,2023.03.20,$15.00,Clothing
+CUST_0217,25.0,Female,15/02/2023,$45.50,clothing
+CUST_0212,-5.0,Male,15/02/2023,"$8,500.00",Electronics
+CUST_0193,45.0,male,2023.03.20,$15.00,Electronics
+CUST_0278,19.0,Male,"April 5, 2023",$45.50,clothing
+CUST_0161,25.0,male,2023-01-15,$15.00,Clothing
+CUST_0284,25.0,Female,,350.75,BEAUTY
+CUST_0293,19.0,Male,2023.03.20,$15.00,BEAUTY
+CUST_0178,,Male,2023-01-15,350.75,
+CUST_0235,32.0,male,2023-05-12,"$1,200.00",Electronics
+CUST_0125,58.0,,2023-01-15,$15.00, electronics 
+CUST_0278,25.0,female,2023-05-12,350.75,Electronics
+CUST_0272,19.0,female,,$45.50,BEAUTY
+CUST_0143,32.0,Male,"April 5, 2023",95.20,clothing
+CUST_0232,19.0,female,"April 5, 2023",$120.00,BEAUTY
+CUST_0169,32.0,female,15/02/2023,350.75,clothing
+CUST_0253,,Female,2023-05-12,$45.50,beauty
+CUST_0217,32.0,,2023.03.20,350.75,beauty
+CUST_0167,32.0,male,"April 5, 2023",, electronics 
+CUST_0118,19.0,F,2023-05-12,$120.00,clothing
+CUST_0119,19.0,F,,$120.00,Clothing
+CUST_0212,19.0,Male,2023-05-12,"$1,200.00",Electronics
+CUST_0239,32.0,M,15/02/2023,95.20,clothing
+CUST_0146,19.0,,,350.75,Clothing
+CUST_0100,25.0,Male,2023.03.20,$120.00,Electronics
+CUST_0189,32.0,Female,2023-05-12,"$8,500.00",Clothing
+CUST_0241,25.0,,"April 5, 2023","$1,200.00",Clothing
+CUST_0163,19.0,Female,15/02/2023,$45.50, electronics 
+CUST_0137,25.0,Male,15/02/2023,$45.50,clothing
+CUST_0136,,Female,2023.03.20,350.75,Electronics
+CUST_0225,45.0,Male,"April 5, 2023",$120.00,BEAUTY
+CUST_0238,32.0,Female,15/02/2023,$120.00, electronics 
+CUST_0199,19.0,Male,2023.03.20,95.20,beauty
+CUST_0176,120.0,Female,15/02/2023,$45.50,clothing
+CUST_0102,45.0,Female,2023-05-12,$15.00, electronics 
+CUST_0260,25.0,female,2023.03.20,$120.00,clothing
+CUST_0233,58.0,Female,2023-01-15,$15.00,clothing
+CUST_0277,25.0,Female,2023-01-15,$15.00,clothing
+CUST_0109,32.0,Female,2023-01-15,$45.50,Clothing
+CUST_0104,32.0,Male,2023.03.20,350.75,clothing
+CUST_0250,25.0,Female,2023-01-15,$45.50, electronics 
+CUST_0237,-5.0,Male,2023-01-15,95.20, electronics 
+CUST_0271,45.0,F,2023-05-12,95.20,BEAUTY
+CUST_0229,32.0,Male,2023-05-12,350.75,Clothing
+CUST_0112,19.0,M,2023.03.20,350.75,clothing
+CUST_0267,19.0,Female,,$120.00,BEAUTY
+CUST_0229,25.0,M,2023-01-15,$15.00,clothing
+CUST_0183,45.0,Male,2023.03.20,$120.00,BEAUTY
+CUST_0164,25.0,Female,2023.03.20,$120.00,Electronics
+CUST_0162,32.0,Female,2023.03.20,350.75, electronics 
+CUST_0200,45.0,Female,15/02/2023,$45.50,beauty
+CUST_0172,19.0,male,2023.03.20,$15.00,clothing
+CUST_0116,45.0,Female,15/02/2023,$45.50,BEAUTY
+CUST_0108,19.0,M,"April 5, 2023","$1,200.00",Electronics
+CUST_0242,,Female,2023-01-15,$45.50,Clothing
+CUST_0251,32.0,Female,2023-01-15,$120.00,beauty
+CUST_0137,19.0,Female,2023-01-15,"$1,200.00", electronics 
+CUST_0262,25.0,Male,15/02/2023,,beauty
+CUST_0193,25.0,Male,2023.03.20,$15.00,Clothing
+CUST_0194,45.0,Male,2023-01-15,$120.00,Clothing
+CUST_0148,45.0,Male,2023-05-12,$45.50,clothing
+CUST_0168,32.0,M,15/02/2023,95.20,beauty
+CUST_0161,19.0,Female,2023-01-15,350.75, electronics 
+CUST_0287,19.0,Male,"April 5, 2023",$45.50,Electronics
+CUST_0277,19.0,F,2023-01-15,95.20,beauty
+CUST_0177,32.0,Male,2023.03.20,95.20,BEAUTY
+CUST_0216,58.0,female,"April 5, 2023",, electronics 
+CUST_0219,25.0,Female,2023-01-15,"$8,500.00",clothing
+CUST_0236,19.0,male,2023-01-15,95.20,clothing
+CUST_0261,32.0,Male,15/02/2023,$45.50,clothing
+CUST_0175,58.0,Female,2023-01-15,$45.50,Electronics
+CUST_0134,45.0,male,2023-01-15,"$1,200.00",Clothing
+CUST_0100,58.0,F,15/02/2023,350.75,Electronics
+CUST_0139,25.0,Female,15/02/2023,350.75,BEAUTY
+CUST_0163,19.0,F,2023.03.20,$120.00,BEAUTY
+CUST_0249,58.0,Male,"April 5, 2023",350.75,clothing
+CUST_0159,45.0,Female,2023.03.20,"$1,200.00",Electronics
+CUST_0163,25.0,Female,2023-01-15,$45.50,Electronics
+CUST_0192,45.0,female,2023-01-15,$120.00,clothing
+CUST_0171,58.0,Male,2023-05-12,350.75,BEAUTY
+CUST_0110,32.0,Female,2023.03.20,$15.00,clothing
+CUST_0204,45.0,Female,2023-05-12,$45.50,Clothing
+CUST_0113,25.0,female,15/02/2023,350.75,clothing
+CUST_0159,32.0,male,2023.03.20,$15.00,Electronics
+CUST_0129,32.0,F,2023.03.20,350.75, electronics 
+CUST_0134,58.0,Male,15/02/2023,$45.50, electronics 
+CUST_0264,58.0,female,2023.03.20,350.75,Electronics
+CUST_0104,58.0,female,2023.03.20,$120.00,clothing
+CUST_0182,19.0,female,2023-01-15,"$8,500.00",beauty
+CUST_0222,45.0,Female,15/02/2023,$45.50,BEAUTY
+CUST_0177,45.0,M,"April 5, 2023","$1,200.00",Electronics
+CUST_0253,45.0,,2023-05-12,$45.50,Electronics
+CUST_0161,45.0,Male,15/02/2023,350.75,Electronics
+CUST_0231,58.0,Female,15/02/2023,"$1,200.00",Electronics
+CUST_0188,32.0,Female,2023-01-15,$120.00,clothing
+CUST_0141,32.0,Female,"April 5, 2023",350.75,clothing
+CUST_0188,19.0,Male,15/02/2023,$45.50,Electronics
+CUST_0245,25.0,Female,,$120.00, electronics 
+CUST_0139,32.0,female,15/02/2023,"$1,200.00", electronics 
+CUST_0171,45.0,Male,15/02/2023,$120.00, electronics 
+CUST_0138,25.0,F,2023.03.20,95.20,BEAUTY
+CUST_0203,19.0,Male,2023-05-12,"$1,200.00",Electronics
+CUST_0113,45.0,male,2023.03.20,350.75,clothing
+CUST_0131,19.0,Male,15/02/2023,$45.50,Clothing
+CUST_0278,19.0,Male,,350.75,beauty
+CUST_0224,19.0,F,2023-01-15,$15.00,beauty
+CUST_0265,19.0,male,2023-05-12,$120.00,BEAUTY
+CUST_0196,19.0,M,2023-01-15,95.20, electronics 
+CUST_0122,25.0,Male,"April 5, 2023",$120.00,Clothing
+CUST_0162,25.0,Female,2023.03.20,95.20,BEAUTY
+CUST_0242,58.0,Female,15/02/2023,$45.50, electronics 
+CUST_0252,32.0,male,2023-05-12,95.20,clothing
+CUST_0244,45.0,male,2023-01-15,350.75,beauty
+CUST_0293,19.0,F,2023-01-15,$120.00,clothing
+CUST_0152,25.0,male,2023.03.20,$120.00, electronics 
+CUST_0203,45.0,Female,15/02/2023,350.75, electronics 
+CUST_0203,19.0,male,2023.03.20,,clothing
+CUST_0278,32.0,female,2023-01-15,$120.00, electronics 
+CUST_0138,32.0,male,2023-01-15,$45.50,Clothing
+CUST_0278,32.0,Female,2023-01-15,"$1,200.00",BEAUTY
+CUST_0297,19.0,male,2023-01-15,350.75, electronics 
+CUST_0233,25.0,,2023.03.20,350.75,beauty
+CUST_0166,32.0,male,"April 5, 2023","$1,200.00",clothing
+CUST_0234,19.0,female,2023-05-12,$120.00, electronics 
+CUST_0278,45.0,M,2023-05-12,"$8,500.00",BEAUTY
+CUST_0299,45.0,Male,2023-01-15,350.75,BEAUTY
+CUST_0141,-5.0,female,15/02/2023,$45.50,Clothing
+CUST_0291,25.0,male,2023-01-15,$15.00,beauty
+CUST_0114,58.0,female,15/02/2023,"$1,200.00",BEAUTY
+CUST_0210,32.0,F,2023.03.20,$120.00,beauty
+CUST_0256,25.0,female,2023-01-15,"$1,200.00",clothing
+CUST_0132,19.0,Male,2023-01-15,$120.00,BEAUTY
+CUST_0254,45.0,female,2023-05-12,350.75,
+CUST_0263,25.0,M,2023.03.20,95.20,BEAUTY
+CUST_0256,25.0,female,15/02/2023,$45.50, electronics 
+CUST_0137,19.0,Female,2023-01-15,$120.00,clothing
+CUST_0284,58.0,female,2023-01-15,95.20,Clothing
+CUST_0196,45.0,Female,2023-05-12,, electronics 
+CUST_0254,45.0,Female,2023-01-15,350.75,
+CUST_0282,25.0,Male,15/02/2023,350.75, electronics 
+CUST_0132,19.0,female,2023-01-15,"$1,200.00", electronics 
+CUST_0295,32.0,M,2023.03.20,"$8,500.00",beauty
+CUST_0185,32.0,Female,2023-01-15,95.20,clothing
+CUST_0165,19.0,female,2023-05-12,$45.50, electronics 
+CUST_0109,45.0,Female,2023-05-12,350.75,Clothing
+CUST_0104,120.0,Male,"April 5, 2023",350.75,Clothing
+CUST_0222,45.0,Female,15/02/2023,$15.00, electronics 
+CUST_0173,45.0,M,2023-05-12,"$1,200.00",
+CUST_0196,,M,2023.03.20,"$1,200.00",clothing
+CUST_0217,25.0,Male,15/02/2023,,Clothing
+CUST_0137,32.0,Male,2023.03.20,$45.50,clothing
+CUST_0240,-5.0,male,2023-01-15,$120.00,Clothing
+CUST_0258,19.0,Female,2023-01-15,350.75,Electronics
+CUST_0146,45.0,Male,"April 5, 2023",$120.00,Electronics
+CUST_0208,32.0,M,2023-01-15,$45.50,clothing
+CUST_0279,32.0,F,2023.03.20,$45.50,BEAUTY
+CUST_0283,45.0,Male,15/02/2023,"$1,200.00", electronics 
+CUST_0137,19.0,Female,2023-01-15,$120.00,clothing
+CUST_0181,45.0,Female,"April 5, 2023",350.75,beauty
+CUST_0144,-5.0,Male,2023.03.20,$15.00, electronics 
+CUST_0157,32.0,Male,15/02/2023,$120.00,beauty
+CUST_0229,58.0,male,15/02/2023,$45.50,BEAUTY
+CUST_0163,25.0,Female,2023-01-15,$45.50,Electronics
+CUST_0241,19.0,female,,$45.50,beauty
+CUST_0137,32.0,Male,2023.03.20,350.75,Electronics
+CUST_0252,45.0,F,2023-01-15,$120.00,Electronics
+CUST_0241,25.0,Male,2023.03.20,$45.50,clothing
+CUST_0182,32.0,M,2023-05-12,, electronics 
+CUST_0230,25.0,Male,2023-05-12,"$1,200.00",clothing
+CUST_0266,19.0,male,15/02/2023,350.75, electronics 
+CUST_0156,19.0,Male,"April 5, 2023","$1,200.00",Electronics
+CUST_0197,19.0,Female,2023-05-12,95.20, electronics 
+CUST_0127,45.0,,15/02/2023,$45.50,Electronics
+CUST_0199,45.0,Female,15/02/2023,$120.00,clothing
+CUST_0127,45.0,Female,2023.03.20,$120.00,beauty
+CUST_0253,45.0,M,15/02/2023,"$1,200.00",Electronics
+CUST_0241,45.0,male,,95.20,BEAUTY
+CUST_0260,19.0,Male,15/02/2023,95.20, electronics 
+CUST_0204,25.0,female,2023-01-15,$120.00, electronics 
+CUST_0182,19.0,Male,2023-01-15,$15.00,Clothing
+CUST_0107,25.0,male,"April 5, 2023",95.20,clothing
+CUST_0162,32.0,male,15/02/2023,$120.00,clothing
+CUST_0189,19.0,Female,2023-05-12,95.20,
+CUST_0235,25.0,Female,2023-01-15,95.20,beauty
+CUST_0229,25.0,Male,"April 5, 2023",, electronics 
+CUST_0134,32.0,Male,2023-01-15,95.20, electronics 
+CUST_0195,25.0,Male,2023-01-15,,Electronics
+CUST_0123,58.0,Male,15/02/2023,$15.00, electronics 
+CUST_0142,32.0,male,15/02/2023,350.75,clothing
+CUST_0266,25.0,male,"April 5, 2023",95.20, electronics 
+CUST_0146,58.0,Male,2023-01-15,95.20,BEAUTY
+CUST_0271,120.0,female,2023-05-12,$120.00,
+CUST_0198,25.0,Male,15/02/2023,95.20,Electronics
+CUST_0197,25.0,male,2023-01-15,$120.00,clothing
+CUST_0149,32.0,Male,15/02/2023,"$1,200.00",Electronics
+CUST_0167,19.0,female,2023.03.20,350.75,Electronics
+CUST_0221,45.0,Female,2023-05-12,$45.50, electronics 
+CUST_0239,32.0,M,15/02/2023,95.20,clothing
+CUST_0228,19.0,Female,2023.03.20,"$1,200.00",Clothing
+CUST_0177,32.0,Male,2023.03.20,95.20,BEAUTY
+CUST_0147,19.0,Male,2023-01-15,95.20,clothing
+CUST_0100,19.0,Male,2023.03.20,"$1,200.00",Clothing
